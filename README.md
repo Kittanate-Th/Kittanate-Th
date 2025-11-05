@@ -22,7 +22,7 @@
 
 * 🌍  Location: Bangkok & Chonburi ,Thailand.
 * ✉️  Contact: [kittanate.th@gmail.com](mailto:kittanate.th@gmail.com)
-* 🧠  I'm currently learning TREN Stack
+* 🧠  I'm currently learning .NET Core Stack
 
 
 

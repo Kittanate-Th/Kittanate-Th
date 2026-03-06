@@ -33,9 +33,6 @@
 <a href="https://www.github.com/Kittanate-Th" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.dev.to/kittanate_thanee_9c9227e8" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" />
-</a>
 <a href="https://discord.com/users/358592419404447754" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>

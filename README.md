@@ -18,7 +18,7 @@
 
 * 🌍  Location: Bangsaen Chonburi, Thailand.
 * ✉️  Contact: [kittanate.th@gmail.com](mailto:kittanate.th@gmail.com)
-* 🧠  Currently building with the NEXT Stack (Next.js + TypeScript + Tailwind + Prisma)
+* 🧠  Currently learning with the NEXT Stack (Next.js + TypeScript + Tailwind + Prisma)
 
 
 

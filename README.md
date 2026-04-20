@@ -18,13 +18,16 @@
 
 * 🌍  Location: Bangsaen Chonburi, Thailand.
 * ✉️  Contact: [kittanate.th@gmail.com](mailto:kittanate.th@gmail.com)
-* 🧠  Currently learning with the NEXT Stack (Next.js + TypeScript + Tailwind + Prisma)
+* 🧠  Currently learning with the Vibe Coding & Engineering | Context Engineering
 
 
 
 <p align="center">
-[![roadmap.sh](https://roadmap.sh/card/tall/66725480df3918909e2778d3?variant=light&roadmaps=sql%2Caspnet-core%2Cvibe-coding%2Ccode-review-best-practices)](https://roadmap.sh)generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
+  <a href="https://roadmap.sh/u/kittanate">
+    <img src="https://roadmap.sh/card/tall/66725480df3918909e2778d3?variant=light&roadmaps=sql%2Caspnet-core%2Cvibe-coding%2Ccode-review-best-practices" alt="roadmap.sh" />
+  </a>
 </p>
+
 
 ### Socials
 

@@ -18,7 +18,7 @@
 
 * 🌍  Location: Bangsaen Chonburi, Thailand.
 * ✉️  Contact: [kittanate.th@gmail.com](mailto:kittanate.th@gmail.com)
-* 🧠  Currently learning with the Vibe Coding & Engineering | Context Engineering
+* 🧠  Currently learning with the Vibe Coding & Engineering | Context Engineering | OpenClaw
 
 
 

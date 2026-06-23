@@ -12,7 +12,7 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   
 </pre>========================================================================================
 
-<p align="center">🔍 Open to Work Software Engineer · Full-Stack Developer · AI Engineer Enthusiast</p>
+<p align="center">🔍 Open to Work Software Engineer | AI Augmented SE </p>
 <p align="center">--------------</p>
 
 

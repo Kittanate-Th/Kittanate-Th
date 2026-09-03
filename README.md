@@ -12,13 +12,13 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   
 </pre>========================================================================================
 
-<p align="center">🔍 Open to Work Software Engineer | AI Augmented SE </p>
+<p align="center">🔍 Open to Work Software Engineer | DevOps | FullStack </p>
 <p align="center">--------------</p>
 
 
 * 🌍  Location: Bangsaen Chonburi, Thailand.
 * ✉️  Contact: [kittanate.th@gmail.com](mailto:kittanate.th@gmail.com)
-* 🧠  Currently learning with the System Design | Hermes Agent 
+* 🧠  Currently learning with the System Design | Hermes Agent | DevSecOps
 
 
 
